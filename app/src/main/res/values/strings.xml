@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="aboutus">About Us</string>
+    <string name="rateus">Rate Us</string>
+    <string name="feedback">FeedBack</string>
+    <string name="convert">Convert</string>
+
+    <string name="currency_array">Choose Currency</string>
+    <string name="indianrupee">Indian Rupee</string>
+    <string name="usdollar">US Dollar</string>
+    <string name="euro">Euro</string>
+    <string name="pound">Pound</string>
+    <string name="canadiandollar">Canadian Dollar</string>
+    <string-array name="currencyTypes">
+        <item>@string/currency_array</item>
+        <item>@string/indianrupee</item>
+        <item>@string/usdollar</item>
+        <item>@string/euro</item>
+        <item>@string/pound</item>
+        <item>@string/canadiandollar</item>
+    </string-array>
+</resources>

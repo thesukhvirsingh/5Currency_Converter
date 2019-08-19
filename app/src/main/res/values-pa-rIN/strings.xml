@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਮੁਦਰਾ ਪਰਿਵਰਤਕ</string>
+    <string name="aboutus">ਸਾਡੇ ਬਾਰੇ</string>
+    <string name="rateus">ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ</string>
+    <string name="feedback">" ਸੁਝਾਅ"</string>
+
+    <string name="currency_array">ਮੁਦਰਾ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="indianrupee">ਭਾਰਤੀ ਰੁਪਿਆ</string>
+    <string name="pound">ਪੌਂਡ</string>
+    <string name="euro">ਯੂਰੋ</string>
+    <string name="canadiandollar">"ਕੈਨੇਡੀਅਨ ਡਾਲਰ"</string>
+    <string name="usdollar">ਅਮਰੀਕੀ ਡਾਲਰ</string>
+    <string name="convert">"ਤਬਦੀਲ ਕਰੋ "</string>
+
+</resources>
